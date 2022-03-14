@@ -1,0 +1,1 @@
+Acess this [page](https://blackwolf449.github.io/PokeDex_JS/) to teste the pokeDex
